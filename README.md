@@ -19,6 +19,6 @@ En plus vous utiliserez les outils modernes de développement :
 
 [Rapport](https://devinci-my.sharepoint.com/personal/atik_mohamed_mouktar_edu_devinci_fr/_layouts/15/guestaccess.aspx?docid=1406e4c4200ec4221afbeeacfc9331e5a&authkey=AeVQgxRYxsjgzq2cPTvdHWI&e=qcnnkp)
 
-[Powerpoint kick-off](https://devinci-my.sharepoint.com/personal/atik_mohamed_mouktar_edu_devinci_fr/_layouts/15/guestaccess.aspx?docid=13d4cb3dfa6ed466aa6c05cdc0822b248&authkey=AbH9iQIkJIDWdipxsLP04xQ&rtime=dG2Uo_mD2Ug)
+[PowerPoint Kick-off](https://devinci-my.sharepoint.com/personal/atik_mohamed_mouktar_edu_devinci_fr/_layouts/15/guestaccess.aspx?docid=13d4cb3dfa6ed466aa6c05cdc0822b248&authkey=AbH9iQIkJIDWdipxsLP04xQ&rtime=dG2Uo_mD2Ug)
 
 [Gantt](https://prod.teamgantt.com/gantt/schedule/?ids=2817414#&ids=2817414&user=&custom=&company=&hide_completed=false&date_filter=&color_filter=)
